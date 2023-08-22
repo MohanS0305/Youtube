@@ -21,4 +21,6 @@ Flexbox/Grid: Utilize CSS Flexbox and Grid for creating responsive and well-orga
 Dependencies for this project:
 
 In Img folder i put icons, profiles and thumbnails for the youtube project.
-In css folder the header.css is for the header seaction of the youtube
+In css folder the header.css is for the header seaction of the youtube like search bar, video upload, notification bar etc... particularly in header seaction i am using flex box for horizontally by default it is horizontal.
+In main.css i design main youtube videos content here i am using grid layout because here multiple layout will present so compare to flex. grid is easy for handle the multidimension layouts.
+In sidebar.css i design the siderbar for youtube like home, trending, games etc... here i am using flex box for vertically this is single dimension so flex box is good.
